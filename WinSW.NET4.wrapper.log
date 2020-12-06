@@ -1,0 +1,12 @@
+2020-12-06 10:35:38,764 DEBUG - Starting WinSW in console mode
+2020-12-06 10:35:38,983 INFO  - Installing the service with id 'SpringBootSamHoTool'
+2020-12-06 10:35:38,999 DEBUG - Completed. Exit code is 0
+2020-12-06 10:36:29,563 DEBUG - Starting WinSW in service mode
+2020-12-06 10:36:29,563 INFO  - Starting java -jar E:\LienSonSamHoTool\SpringBootApplicationWindowsService.jar -Dspring.config.location=file:///E:\LienSonSamHoTool/config/application.properties
+2020-12-06 10:36:29,579 INFO  - Started process 9060
+2020-12-06 10:36:29,579 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2020-12-06 10:42:05,326 INFO  - Stopping SpringBootSamHoTool
+2020-12-06 10:42:05,327 DEBUG - ProcessKill 9060
+2020-12-06 10:42:05,328 INFO  - Stopping process 9060
+2020-12-06 10:42:05,590 INFO  - Finished SpringBootSamHoTool
+2020-12-06 10:42:05,591 DEBUG - Completed. Exit code is 0
