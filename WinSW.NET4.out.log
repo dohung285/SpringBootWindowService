@@ -5,120 +5,34 @@
  \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
   '  |____| .__|_| |_|_| |_\__, | / / / /
  =========|_|==============|___/=/_/_/_/
- :: Spring Boot ::        (v2.3.4.RELEASE)
+ :: Spring Boot ::                (v2.4.0)
 
-2020-12-06 10:36:31.010  INFO 9060 --- [           main] c.e.r.ResttemplateApplication            : Starting ResttemplateApplication v0.0.1-SNAPSHOT on DESKTOP-K0UD7VL with PID 9060 (E:\LienSonSamHoTool\SpringBootApplicationWindowsService.jar started by DESKTOP-K0UD7VL$ in E:\LienSonSamHoTool)
-2020-12-06 10:36:31.010  INFO 9060 --- [           main] c.e.r.ResttemplateApplication            : No active profile set, falling back to default profiles: default
-2020-12-06 10:36:32.260  INFO 9060 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
-2020-12-06 10:36:32.276  INFO 9060 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2020-12-06 10:36:32.276  INFO 9060 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.38]
-2020-12-06 10:36:32.338  INFO 9060 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2020-12-06 10:36:32.338  INFO 9060 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1250 ms
-2020-12-06 10:36:32.568  INFO 9060 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2020-12-06 10:36:32.696  INFO 9060 --- [           main] o.s.s.c.ThreadPoolTaskScheduler          : Initializing ExecutorService 'taskScheduler'
-2020-12-06 10:36:32.742  INFO 9060 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
-2020-12-06 10:36:32.742  INFO 9060 --- [           main] c.e.r.ResttemplateApplication            : Started ResttemplateApplication in 2.326 seconds (JVM running for 3.13)
-================================= 06/12/2020 10:36:34 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:36:42 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:36:52 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:37:02 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:37:12 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:37:22 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:37:32 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:37:42 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:37:52 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:38:02 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:38:12 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:38:22 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:38:32 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:38:42 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:38:52 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:39:02 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:39:12 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:39:22 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:39:32 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:39:42 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:39:52 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:40:02 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:40:12 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:40:22 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:40:32 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:40:42 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:40:52 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:41:02 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:41:12 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:41:22 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:41:32 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:41:42 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:41:52 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-================================= 06/12/2020 10:42:02 =================================
-Lay duoc thong tin bien cau hinh trong file application.properties la: abx xyz
-The number elements of JSONArray is: 100
-2020-12-06 10:42:05.480  INFO 9060 --- [extShutdownHook] o.s.s.c.ThreadPoolTaskScheduler          : Shutting down ExecutorService 'taskScheduler'
-2020-12-06 10:42:05.481  INFO 9060 --- [extShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-01-18 08:50:06.068  INFO 13652 --- [           main] com.cyber.otp.OtpApplication             : Starting OtpApplication v0.0.1-SNAPSHOT using Java 1.8.0_271 on PM3-HUNGDX with PID 13652 (D:\SpringBootWindowService\CyberAuthen-1.0.jar started by PM3-HUNGDX$ in D:\SpringBootWindowService)
+2021-01-18 08:50:06.077  INFO 13652 --- [           main] com.cyber.otp.OtpApplication             : No active profile set, falling back to default profiles: default
+2021-01-18 08:50:08.646  INFO 13652 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Reactive Cassandra repositories in DEFAULT mode.
+2021-01-18 08:50:09.128  INFO 13652 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 472 ms. Found 0 Reactive Cassandra repository interfaces.
+2021-01-18 08:50:09.141  INFO 13652 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Cassandra repositories in DEFAULT mode.
+2021-01-18 08:50:09.202  INFO 13652 --- [           main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 60 ms. Found 3 Cassandra repository interfaces.
+2021-01-18 08:50:12.493  INFO 13652 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8989 (http)
+2021-01-18 08:50:12.530  INFO 13652 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-01-18 08:50:12.530  INFO 13652 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-01-18 08:50:12.710  INFO 13652 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-01-18 08:50:12.710  INFO 13652 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 6492 ms
+2021-01-18 08:50:13.712  INFO 13652 --- [           main] c.d.o.d.i.core.DefaultMavenCoordinates   : DataStax Java driver for Apache Cassandra(R) (com.datastax.oss:java-driver-core) version 4.9.0
+2021-01-18 08:50:15.245  INFO 13652 --- [     s0-admin-0] c.d.oss.driver.internal.core.time.Clock  : Using native clock for microsecond precision
+2021-01-18 08:50:21.814  INFO 13652 --- [           main] o.s.s.web.DefaultSecurityFilterChain     : Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@768fc0f2, org.springframework.security.web.context.SecurityContextPersistenceFilter@6e01f9b0, org.springframework.security.web.header.HeaderWriterFilter@1acaf3d, org.springframework.web.filter.CorsFilter@5454d35e, org.springframework.security.web.authentication.logout.LogoutFilter@1187c9e8, com.cyber.otp.security.jwt.JwtAuthenticationFilter@5852c06f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6c61a903, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@59d4cd39, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@20c0a64d, org.springframework.security.web.session.SessionManagementFilter@1bab8268, org.springframework.security.web.access.ExceptionTranslationFilter@404bbcbd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@119cbf96]
+2021-01-18 08:50:22.001  INFO 13652 --- [           main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-18 08:50:22.505  INFO 13652 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8989 (http) with context path ''
+2021-01-18 08:50:22.534  INFO 13652 --- [           main] com.cyber.otp.OtpApplication             : Started OtpApplication in 17.563 seconds (JVM running for 18.892)
+2021-01-18 08:52:28.610  INFO 13652 --- [nio-8989-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-18 08:52:28.610  INFO 13652 --- [nio-8989-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-01-18 08:52:28.612  INFO 13652 --- [nio-8989-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+$2a$10$hTsngkQ1ElMVQMN80p7oJ.gKarVyAkR2qrNMOeDDwYHxB/zHYoD6e
+false
+2021-01-18 08:52:37.919 ERROR 13652 --- [nio-8989-exec-3] com.cyber.otp.entities.KhachhangOTP      : L?i get khách hàng otp: java.util.NoSuchElementException: No value present
+$2a$10$o/NeYiilK3yuIhVMAAhTRuhdTF5uVqLnyJR2/whNXaxsMia2LPXYq
+false
+2021-01-18 08:56:43.241 ERROR 13652 --- [nio-8989-exec-5] com.cyber.otp.entities.KhachhangOTP      : L?i get khách hàng otp: java.util.NoSuchElementException: No value present
+$2a$10$aVGpen0.SmXUTayPGIDbK.kJW3Df63hPeROhfmicOHyrhOa8KlR/C
+false
+2021-01-18 08:57:02.435 ERROR 13652 --- [nio-8989-exec-7] com.cyber.otp.entities.KhachhangOTP      : L?i get khách hàng otp: java.util.NoSuchElementException: No value present

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
     Copyright (c) 2016 Oleg Nenashev and other contributors
 
@@ -29,14 +30,14 @@
 <service>
   
   <!-- ID of the service. It should be unique across the Windows system-->
-  <id>SpringBootTool</id>
+  <id>CyberAuthen</id>
   <!-- Display name of the service -->
-  <name>SpringBootTool(powered by WinSW)</name>
+  <name>CyberAuthen</name>
   <!-- Service description -->
-  <description>SpringBootSamHoTool</description>
+  <description>CyberAuthen</description>
   
   <!-- Path to the executable, which should be started -->
   <executable>java</executable>
-  <arguments>-jar %BASE%\SpringBootApplicationWindowsService.jar -Dspring.config.location=file:///%BASE%/config/application.properties</arguments>
+  <arguments>-jar %BASE%\CyberAuthen-1.0.jar -Dfile.encoding="UTF-8" -Dspring.config.location=file:///%BASE%/config/application.properties</arguments>
 
 </service>

@@ -10,3 +10,35 @@
 2020-12-06 10:42:05,328 INFO  - Stopping process 9060
 2020-12-06 10:42:05,590 INFO  - Finished SpringBootSamHoTool
 2020-12-06 10:42:05,591 DEBUG - Completed. Exit code is 0
+2021-01-18 08:34:19,452 DEBUG - Starting WinSW in console mode
+2021-01-18 08:34:20,621 INFO  - Installing the service with id 'CyberAuthen'
+2021-01-18 08:34:20,665 DEBUG - Completed. Exit code is 0
+2021-01-18 08:36:07,070 DEBUG - Starting WinSW in service mode
+2021-01-18 08:36:07,109 INFO  - Starting java -jar D:\SpringBootWindowService\CyberAuthen-1.0.jar -Dfile.encoding="UTF-8" -Dspring.config.location=file:///D:\SpringBootWindowService/config/application.properties
+2021-01-18 08:36:07,145 INFO  - Started process 10076
+2021-01-18 08:36:07,153 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-01-18 08:40:03,177 INFO  - Stopping CyberAuthen
+2021-01-18 08:40:03,194 DEBUG - ProcessKill 10076
+2021-01-18 08:40:03,201 INFO  - Stopping process 10076
+2021-01-18 08:40:03,396 WARN  - Failed to locate children of the process with PID=10076. Child processes won't be terminated
+System.Runtime.InteropServices.COMException (0x8007045B): A system shutdown is in progress.
+
+   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at WinSW.Util.ProcessHelper.GetChildPids(Int32 pid)
+2021-01-18 08:40:03,505 INFO  - Finished CyberAuthen
+2021-01-18 08:40:03,505 DEBUG - Completed. Exit code is 0
+2021-01-18 08:42:05,463 DEBUG - Starting WinSW in service mode
+2021-01-18 08:42:05,588 INFO  - Starting java -jar D:\SpringBootWindowService\CyberAuthen-1.0.jar -Dfile.encoding="UTF-8" -Dspring.config.location=file:///D:\SpringBootWindowService/config/application.properties
+2021-01-18 08:42:05,666 INFO  - Started process 5432
+2021-01-18 08:42:05,666 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
+2021-01-18 08:49:36,495 DEBUG - Starting WinSW in console mode
+2021-01-18 08:49:37,521 INFO  - Installing the service with id 'CyberAuthen'
+2021-01-18 08:49:37,559 DEBUG - Completed. Exit code is 0
+2021-01-18 08:50:03,466 DEBUG - Starting WinSW in service mode
+2021-01-18 08:50:03,507 INFO  - Starting java -jar D:\SpringBootWindowService\CyberAuthen-1.0.jar -Dfile.encoding="UTF-8" -Dspring.config.location=file:///D:\SpringBootWindowService/config/application.properties
+2021-01-18 08:50:03,541 INFO  - Started process 13652
+2021-01-18 08:50:03,550 DEBUG - Forwarding logs of the process System.Diagnostics.Process (java) to WinSW.DefaultLogAppender
